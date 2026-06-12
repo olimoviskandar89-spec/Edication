@@ -1,24 +1,24 @@
-# СИСТЕМА ГЕНЕРАЦИИ КОНТЕНТА — Яндекс Дзен
-# Ниша: Рассказы и истории / Семейные драмы
+# KONTENT YARATISH TIZIMI — Yandex Zen
+# Nisha: Hikoyalar va qissalar / Oilaviy dramalar
 
-> **Триггер:** Каждый раз, когда пользователь указывает новую тему — автоматически выполнять ВСЕ 4 задания ниже строго по порядку.
-
----
-
-## КАК РАСПОЗНАТЬ НОВУЮ ТЕМУ
-
-Пользователь пишет новую тему одним из способов:
-- Называет тему напрямую: «Измена мужа после 10 лет брака»
-- Пишет короткое название сюжета
-- Описывает конфликт/ситуацию для рассказа
-
-Как только тема получена — **немедленно запускать задания 1→2→3→4 без дополнительных вопросов.**
+> **Ishga tushirish sharti:** Foydalanuvchi yangi mavzu bergan har safar — quyidagi 4 ta vazifani avtomatik ravishda, qat'iy tartibda bajar.
 
 ---
 
-## ПОДКЛЮЧАЕМЫЕ ФАЙЛЫ
+## YANGI MAVZUNI QANDAY ANIQLASH MUMKIN
 
-Перед выполнением заданий прочитать ВСЕ файлы от начала до конца (компенсация Lost in Middle):
+Foydalanuvchi yangi mavzuni quyidagi usullardan biri bilan beradi:
+- To'g'ridan-to'g'ri mavzu nomini aytadi: «10 yillik nikohdan keyin erning xiyonati»
+- Qisqa syujet nomini yozadi
+- Hikoya uchun konflikt/vaziyatni tasvirlaydi
+
+Mavzu olingandan so'ng — **qo'shimcha savol bermasdan 1→2→3→4 vazifalarni darhol boshlash.**
+
+---
+
+## ULANILADIGAN FAYLLAR
+
+Vazifalarni bajarishdan oldin BARCHA fayllarni boshidan oxirigacha o'qish (Lost in Middle kompensatsiyasi):
 
 #[[file:ИНСТРУКЦИЯ.md]]
 #[[file:СТИЛЬ.md]]
@@ -27,269 +27,269 @@
 
 ---
 
-## ЗАДАНИЕ 1 — СОЗДАНИЕ СТАТЬИ
+## 1-VAZIFA — MAQOLA YARATISH
 
-### Процесс (строго по ИНСТРУКЦИЯ.md)
+### Jarayon (ИНСТРУКЦИЯ.md ga qat'iy rioya qilgan holda)
 
-**ШАГ 1: Выбор структуры**
-Из СТРУКТУРА.md выбрать подходящий шаблон для темы:
+**1-QADAM: Tuzilmani tanlash**
+СТРУКТУРА.md dan mavzuga mos shablonni tanlash:
 
-| Тема | Шаблон |
-|------|--------|
-| Измена, скрытая ложь | А — «Измена / Предательство» |
-| Давление родителей, свекровь, тёща | Б — «Конфликт поколений» |
-| Прощение, второй шанс, жизнь после кризиса | В — «Прощение / Начать заново» |
-| Раздел, опека, дети после развода | Г — «Развод и дети» |
+| Mavzu | Shablon |
+|-------|---------|
+| Xiyonat, yashirin yolg'on | A — «Xiyonat / Sotqinlik» |
+| Ota-ona bosimi, qaynona, qaynotа | B — «Avlodlar ziddiyati» |
+| Kechirish, ikkinchi imkon, inqirozdan keyingi hayot | V — «Kechirish / Qaytadan boshlash» |
+| Bo'lish, vasiylik, ajrashgandan keyin bolalar | G — «Ajrashuv va bolalar» |
 
-Показать: какую структуру выбрал и почему.
+Ko'rsatish: qaysi tuzilma tanlandi va nima uchun.
 
-**ШАГ 2: Таблицы ДО написания**
+**2-QADAM: Yozishdan OLDIN jadvallar**
 
-Создать ВСЕ таблицы ПЕРЕД написанием статьи:
-- Таблица 2.1 — Персонажи (имя, возраст, роль, черта, речевой маркер)
-- Таблица 2.2 — Хронология (все временны́е метки)
-- Таблица 2.3 — Фоновые факты (только из ИСТОЧНИКИ.md)
+BARCHA jadvallarni maqola yozishdan OLDIN yaratish:
+- 2.1-jadval — Qahramonlar (ism, yosh, rol, xarakter, nutq markeri)
+- 2.2-jadval — Xronologiya (barcha vaqt belgilari)
+- 2.3-jadval — Fon faktlari (faqat ИСТОЧНИКИ.md dan)
 
-Показать таблицы перед написанием.
+Jadvallarni yozishdan oldin ko'rsatish.
 
-**ШАГ 3: Написание статьи**
+**3-QADAM: Maqola yozish**
 
-Писать согласно:
-- СТИЛЬ.md (паттерны, тон, запрещённые клише)
-- Выбранному шаблону из СТРУКТУРА.md
-- Правилам монетизации Дзена из ИНСТРУКЦИЯ.md
-- Продолжительность чтения: не менее 20 минут (~7000–9000 слов)
+Quyidagilarga muvofiq yozish:
+- СТИЛЬ.md (naqshlar, ohang, taqiqlangan klishelar)
+- СТРУКТУРА.md dan tanlangan shablonga
+- ИНСТРУКЦИЯ.md dan Zen monetizatsiya qoidalariga
+- O'qish davomiyligi: kamida 20 minut (~7000–9000 so'z)
 
-Критичные правила при написании:
-- Копировать данные из таблиц — НЕ изобретать повторно
-- ~33% предложений начинаются с Но / А / И
-- Финал без морали — деталь или реплика
-- Событие → реакция (без деталей травм/смерти)
-- Романтика через слово + одно действие (без физиологии)
+Yozishda muhim qoidalar:
+- Jadvallardan ma'lumotlarni ko'chirish — qayta ixtiro qilmaslik
+- ~33% gaplar Lekin / Va / Ammo bilan boshlanadi
+- Xulosa axloqsiz — detal yoki replika
+- Voqea → reaktsiya (jarohat/o'lim tafsilotlarsiz)
+- Romantika so'z + bitta harakat orqali (fiziologiyasiz)
 
-**ШАГ 4: Верификация**
+**4-QADAM: Verifikatsiya**
 
-Проверить статью через таблицы верификации:
-- Таблица 2.4 — Запрещённые клише (сканировать весь текст)
-- Таблица 3.3 — Чеклист Дзена и стиля
-- Таблица 3.4 — Проверка хронологии
-- Таблица 3.5 — Проверка повторов (лимит ≤2 раза)
-- Таблица 3.1 — Верификация фактов (если есть статистика/законы)
-- Таблица 3.2 — Атрибуция цитат (если есть цитаты экспертов)
+Maqolani verifikatsiya jadvallari orqali tekshirish:
+- 2.4-jadval — Taqiqlangan klishelar (butun matnni skanerlash)
+- 3.3-jadval — Zen va uslub nazorat ro'yxati
+- 3.4-jadval — Xronologiyani tekshirish
+- 3.5-jadval — Takrorlarni tekshirish (limit ≤2 marta)
+- 3.1-jadval — Faktlarni verifikatsiya qilish (statistika/qonunlar bo'lsa)
+- 3.2-jadval — Iqtiboslarni atribusiya qilish (ekspert iqtiboslari bo'lsa)
 
-### Формат вывода Задания 1
-
-```
-## ЗАДАНИЕ 1: СТАТЬЯ
-
-### ВЫБОР СТРУКТУРЫ
-[Какую структуру выбрал и почему]
-
-### ТАБЛИЦЫ ДО НАПИСАНИЯ
-[Таблица 2.1 — Персонажи]
-[Таблица 2.2 — Хронология]
-[Таблица 2.3 — Фоновые факты]
-
-### СТАТЬЯ
-[Полный текст статьи ~7000–9000 слов]
-
-### ВЕРИФИКАЦИЯ
-
-#### Таблица 2.4: Запрещённые клише
-[Результаты сканирования]
-
-#### Таблица 3.1: Верификация фактов
-[Результаты — если есть факты]
-
-#### Таблица 3.2: Атрибуция цитат
-[Результаты — если есть цитаты]
-
-#### Таблица 3.3: Чеклист Дзена и стиля
-[Результаты по каждому критерию]
-
-#### Таблица 3.4: Проверка хронологии
-[Результаты]
-
-#### Таблица 3.5: Проверка повторов
-[Результаты]
-
-### СТАТУС
-✅ Статья готова к публикации
-ИЛИ
-❌ Найдены ошибки: [список ошибок]
-```
-
----
-
-## ЗАДАНИЕ 2 — ИСПРАВЛЕНИЕ ОШИБОК
-
-Выполнять СРАЗУ после Задания 1, если в верификации есть хотя бы один ❌.
-
-Если статус «✅ Статья готова» — пропустить Задание 2 и перейти к Заданию 3.
-
-### Процесс
-
-**1. Анализ каждой ошибки:**
-- Какая слабость ИИ привела к ошибке
-- Какая таблица/правило нарушены
-
-**2. Исправление:**
-- Согласно принципам ИНСТРУКЦИЯ.md
-- Согласно правилам СТИЛЬ.md
-- Согласно таблицам СТРУКТУРА.md
-
-**3. Повторная верификация** — прогнать через те же таблицы.
-
-### Формат вывода Задания 2
+### 1-Vazifa chiqish formati
 
 ```
-## ЗАДАНИЕ 2: ИСПРАВЛЕНИЕ
+## 1-VAZIFA: MAQOLA
 
-### АНАЛИЗ ОШИБОК
-[Для каждой ошибки: что нарушено, почему возникла]
+### TUZILMANI TANLASH
+[Qaysi tuzilma tanlandi va nima uchun]
 
-### ИСПРАВЛЕННАЯ СТАТЬЯ
-[Полный текст]
+### YOZISHDAN OLDINGI JADVALLAR
+[2.1-jadval — Qahramonlar]
+[2.2-jadval — Xronologiya]
+[2.3-jadval — Fon faktlari]
 
-### ПОВТОРНАЯ ВЕРИФИКАЦИЯ
-[Таблицы с результатами]
+### MAQOLA
+[Maqolaning to'liq matni ~7000–9000 so'z]
 
-### СТАТУС
-✅ Все ошибки исправлены
-ИЛИ
-❌ Остались ошибки: [список]
+### VERIFIKATSIYA
+
+#### 2.4-jadval: Taqiqlangan klishelar
+[Skanerlash natijalari]
+
+#### 3.1-jadval: Faktlarni verifikatsiya
+[Natijalar — faktlar bo'lsa]
+
+#### 3.2-jadval: Iqtiboslar atribusiyasi
+[Natijalar — iqtiboslar bo'lsa]
+
+#### 3.3-jadval: Zen va uslub nazorat ro'yxati
+[Har bir mezon bo'yicha natijalar]
+
+#### 3.4-jadval: Xronologiyani tekshirish
+[Natijalar]
+
+#### 3.5-jadval: Takrorlarni tekshirish
+[Natijalar]
+
+### STATUS
+✅ Maqola nashr uchun tayyor
+YOKI
+❌ Xatolar topildi: [xatolar ro'yxati]
 ```
 
 ---
 
-## ЗАДАНИЕ 3 — ЗАГОЛОВКИ
+## 2-VAZIFA — XATOLARNI TUZATISH
 
-Выполнять после финальной версии статьи (после Задания 1 или 2).
+Verifikatsiyada kamida bitta ❌ bo'lsa — 1-Vazifadan SO'NG DARHOL bajarish.
 
-### Требования к заголовкам
+Agar «✅ Maqola tayyor» statusi bo'lsa — 2-Vazifani o'tkazib yuborib, 3-Vazifaga o'tish.
 
-- Заголовок раскрывает суть — не кликбейт
-- Без сенсационности
-- Соответствует содержанию статьи
-- Привлекает внимание, создаёт любопытство
-- Релевантен нише «Рассказы и истории / Семейные драмы»
-- Оптимальная длина: 40–60 символов
-- Максимум: 80 символов
+### Jarayon
 
-Сгенерировать ровно 5 вариантов.
+**1. Har bir xatoni tahlil qilish:**
+- Qaysi AI zaiflik xatoga olib keldi
+- Qaysi jadval/qoida buzildi
 
-### Формат вывода Задания 3
+**2. Tuzatish:**
+- ИНСТРУКЦИЯ.md tamoyillariga muvofiq
+- СТИЛЬ.md qoidalariga muvofiq
+- СТРУКТУРА.md jadvallariga muvofiq
+
+**3. Qayta verifikatsiya** — xuddi shu jadvallar orqali o'tkazish.
+
+### 2-Vazifa chiqish formati
 
 ```
-## ЗАДАНИЕ 3: ЗАГОЛОВКИ
+## 2-VAZIFA: TUZATISH
 
-1. [Заголовок 1] (X символов)
-2. [Заголовок 2] (X символов)
-3. [Заголовок 3] (X символов)
-4. [Заголовок 4] (X символов)
-5. [Заголовок 5] (X символов)
+### XATOLAR TAHLILI
+[Har bir xato uchun: nima buzildi, nima uchun yuzaga keldi]
 
-РЕКОМЕНДАЦИЯ: Вариант [номер], потому что [краткое объяснение]
+### TUZATILGAN MAQOLA
+[To'liq matn]
+
+### QAYTA VERIFIKATSIYA
+[Jadvallar va natijalar]
+
+### STATUS
+✅ Barcha xatolar tuzatildi
+YOKI
+❌ Xatolar qoldi: [ro'yxat]
 ```
 
 ---
 
-## ЗАДАНИЕ 4 — ОБЛОЖКИ (STABLE DIFFUSION ПРОМТЫ)
+## 3-VAZIFA — SARLAVHALAR
 
-Выполнять последним, после заголовков.
+Maqolaning yakuniy versiyasidan keyin bajarish (1-Vazifa yoki 2-Vazifadan keyin).
 
-### Требования к обложкам
+### Sarlavhalarga qo'yiladigan talablar
 
-- Персонажи: русской национальности
-- Реалистичные изображения
-- Персонажи крупнее и ближе к экрану
-- Сразу привлекают внимание аудитории
-- Соответствуют содержанию статьи
-- Нейронная сеть: Stable Diffusion
+- Sarlavha mohiyatni ochib beradi — klikbait emas
+- Sensatsiyasiz
+- Maqola mazmuniga mos keladi
+- E'tiborni tortadi, qiziqish uyg'otadi
+- «Hikoyalar va qissalar / Oilaviy dramalar» nishasi uchun tegishli
+- Optimal uzunlik: 40–60 belgi
+- Maksimum: 80 belgi
 
-Создать ровно 5 вариантов промтов.
+Aynan 5 ta variant yaratish.
 
-### Структура каждого промта
+### 3-Vazifa chiqish formati
 
 ```
-Вариант [буква]:
-[Описание сцены на русском — что изображено, настроение, детали]
+## 3-VAZIFA: SARLAVHALAR
 
-Промт для Stable Diffusion (на английском):
+1. [Sarlavha 1] (X belgi)
+2. [Sarlavha 2] (X belgi)
+3. [Sarlavha 3] (X belgi)
+4. [Sarlavha 4] (X belgi)
+5. [Sarlavha 5] (X belgi)
+
+TAVSIYA: [raqam] variant, chunki [qisqa izoh]
+```
+
+---
+
+## 4-VAZIFA — MUQOVALAR (STABLE DIFFUSION PROMPTLARI)
+
+Sarlavhalardan keyin oxirgi bajarish.
+
+### Muqovalarga qo'yiladigan talablar
+
+- Qahramonlar: rus millатидан
+- Realistik tasvirlar
+- Qahramonlar kattaroq va ekranga yaqinroq
+- Auditoriya e'tiborini darhol tortadi
+- Maqola mazmuniga mos keladi
+- Neyron tarmoq: Stable Diffusion
+
+Aynan 5 ta prompt varianti yaratish.
+
+### Har bir promptning tuzilmasi
+
+```
+Variant [harf]:
+[Sahna tavsifi o'zbek tilida — nima tasvirlangan, kayfiyat, tafsilotlar]
+
+Stable Diffusion uchun prompt (ingliz tilida):
 [positive prompt]
 
 Negative prompt:
 [negative prompt]
 
-Параметры: Steps: 30, CFG: 7, Sampler: DPM++ 2M Karras
+Parametrlar: Steps: 30, CFG: 7, Sampler: DPM++ 2M Karras
 ```
 
-### Формат вывода Задания 4
+### 4-Vazifa chiqish formati
 
 ```
-## ЗАДАНИЕ 4: ОБЛОЖКИ
+## 4-VAZIFA: MUQOVALAR
 
-Вариант А:
-[Описание + промт + negative prompt + параметры]
+Variant A:
+[Tavsif + prompt + negative prompt + parametrlar]
 
-Вариант Б:
-[Описание + промт + negative prompt + параметры]
+Variant B:
+[Tavsif + prompt + negative prompt + parametrlar]
 
-Вариант В:
-[Описание + промт + negative prompt + параметры]
+Variant V:
+[Tavsif + prompt + negative prompt + parametrlar]
 
-Вариант Г:
-[Описание + промт + negative prompt + параметры]
+Variant G:
+[Tavsif + prompt + negative prompt + parametrlar]
 
-Вариант Д:
-[Описание + промт + negative prompt + параметры]
+Variant D:
+[Tavsif + prompt + negative prompt + parametrlar]
 
-РЕКОМЕНДАЦИЯ: Вариант [буква], потому что [объяснение]
-```
-
----
-
-## ИТОГОВЫЙ ПОРЯДОК ВЫПОЛНЕНИЯ
-
-```
-Получена новая тема
-        ↓
-[1] Прочитать все 4 файла системы
-        ↓
-[2] ЗАДАНИЕ 1 — Статья (таблицы → текст → верификация)
-        ↓
-[3] ЗАДАНИЕ 2 — Исправление ошибок (если есть ❌)
-        ↓
-[4] ЗАДАНИЕ 3 — 5 заголовков
-        ↓
-[5] ЗАДАНИЕ 4 — 5 промтов для обложек Stable Diffusion
-        ↓
-Всё готово к публикации
+TAVSIYA: [harf] variant, chunki [izoh]
 ```
 
 ---
 
-## КРИТИЧЕСКИЕ ПРАВИЛА (не нарушать никогда)
+## YAKUNIY BAJARISH TARTIBI
 
-### ✅ ОБЯЗАТЕЛЬНО
-- Читать ВСЕ 4 файла системы от начала до конца перед каждой темой
-- Создавать таблицы 2.1 и 2.2 ДО написания (всегда)
-- Копировать данные из таблиц — не вычислять заново
-- Проверять текст через таблицы 2.4, 3.3, 3.4, 3.5 ПОСЛЕ написания
-- Объём статьи: не менее 20 минут чтения (~7000–9000 слов)
-- Актуальный год в тексте: 2026
-
-### ❌ ЗАПРЕЩЕНО
-- Изобретать имена/возрасты/даты вне таблиц 2.1–2.2
-- Использовать клише из таблицы 2.4 и СТИЛЬ.md §6
-- Заканчивать текст моралью или прямым обращением к читателю
-- Приписывать цитаты реальным людям без строки в таблице 3.2
-- Использовать источники уровня 4 (ИСТОЧНИКИ.md)
-- Описывать медицинские процедуры, акты насилия, физиологию романтики в деталях
-- Повторять одну фразу/конструкцию более 2 раз
+```
+Yangi mavzu olinди
+        ↓
+[1] Tizimning barcha 4 faylini o'qish
+        ↓
+[2] 1-VAZIFA — Maqola (jadvallar → matn → verifikatsiya)
+        ↓
+[3] 2-VAZIFA — Xatolarni tuzatish (❌ bo'lsa)
+        ↓
+[4] 3-VAZIFA — 5 ta sarlavha
+        ↓
+[5] 4-VAZIFA — Stable Diffusion uchun 5 ta prompt
+        ↓
+Nashrga tayyor
+```
 
 ---
 
-*Steering-файл: zen-content-system.md · Версия 1.0*
-*Репозиторий: olimoviskandar89-spec/Edication*
-*Оркестрирует: ИНСТРУКЦИЯ.md + СТИЛЬ.md + СТРУКТУРА.md + ИСТОЧНИКИ.md*
+## MUHIM QOIDALAR (hech qachon buzmaslik)
+
+### ✅ MAJBURIY
+- Har bir mavzudan oldin tizimning barcha 4 faylini boshidan oxirigacha o'qish
+- 2.1 va 2.2 jadvallarni yozishdan OLDIN yaratish (doimo)
+- Jadvallardan ma'lumotlarni ko'chirish — qayta hisобlamaslik
+- Yozishdan KEYIN matnni 2.4, 3.3, 3.4, 3.5 jadvallari orqali tekshirish
+- Maqola hajmi: kamida 20 minut o'qish (~7000–9000 so'z)
+- Matndagi joriy yil: 2026
+
+### ❌ ТAQIQLANGAN
+- 2.1–2.2 jadvallarsiz ism/yosh/sana ixtiro qilish
+- 2.4-jadval va СТИЛЬ.md §6 dan klisheler ishlatish
+- Matnni axloq nasihat yoki o'quvchiga murojaat bilan yakunlash
+- Haqiqiy odamlarga 3.2-jadvaldagi qator bo'lmasa iqtibos nisbat berish
+- 4-darajali manbalardan foydalanish (ИСТОЧНИКИ.md)
+- Tibbiy protseduralar, zo'ravonlik, romantika fiziologiyasini batafsil tasvirlash
+- Bir ibora/konstruktsiyani 2 martadan ko'p takrorlash
+
+---
+
+*Steering-fayl: zen-content-system.md · 1.1-versiya (o'zbek tiliga tarjima qilingan)*
+*Repozitoriy: olimoviskandar89-spec/Edication*
+*Boshqaradi: ИНСТРУКЦИЯ.md + СТИЛЬ.md + СТРУКТУРА.md + ИСТОЧНИКИ.md*
