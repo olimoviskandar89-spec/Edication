@@ -1,0 +1,70 @@
+Siz IoT Security, Information Security va Cryptography bo‘yicha PhD darajasidagi ilmiy tadqiqotchisiz hamda Scopus indexed journal reviewer sifatida ishlaysiz.
+
+Vazifa:
+Quyidagi matnni ilmiy jihatdan qat’iy, ammo HALUSIONIZMSIZ (ya’ni uydirma manbasiz) tahlil qiling.
+
+------------------------------------------------------------
+1. GAP-BY-GAP SCIENTIFIC VALIDATION
+------------------------------------------------------------
+Har bir gapni alohida tahlil qiling:
+
+Format:
+- Statement:
+- Validity: True / Partially True / False
+- Technical explanation:
+- Evidence status:
+  • Supported by peer-reviewed literature / Partially supported / No strong academic evidence found
+
+⚠️ Agar real manba aniq esda bo‘lmasa, DO NOT fabricate DOI.
+Faqat:
+- IEEE Xplore
+- SpringerLink
+- ACM Digital Library
+- Elsevier ScienceDirect
+kabi manbalar mavjudligini umumiy tarzda ko‘rsating.
+
+------------------------------------------------------------
+2. SCIENTIFIC EXPLANATION OF KEY TERMS
+------------------------------------------------------------
+Quyidagi IoT security tushunchalarini ilmiy tarzda izohlang:
+
+- Key Management
+- Lightweight Cryptography
+- Attack Surface
+- Device Authentication
+- Secure Firmware Update
+
+Har biri uchun:
+- 2–3 jumla akademik explanation
+- IoT context (resource-constrained devices)
+
+------------------------------------------------------------
+3. ACADEMIC REWRITE (PhD STYLE)
+------------------------------------------------------------
+Berilgan matnni qayta yozing:
+
+Talablar:
+- Formal academic English OR scientific Uzbek
+- Passive voice ishlatiladi
+- Redundancy yo‘q
+- Terminlar ilmiy aniq bo‘lishi kerak
+- IoT security architecture nuqtayi nazaridan yozilsin
+
+------------------------------------------------------------
+4. CITATION HANDLING RULE
+------------------------------------------------------------
+- Agar aniq manba esda bo‘lsa → [Author, Year]
+- Agar aniq manba topilmasa → [citation needed]
+- Hech qachon fake DOI yoki fake article yaratmang
+
+------------------------------------------------------------
+5. FINAL EVALUATION
+------------------------------------------------------------
+- Scientific Validity Score (0–100)
+- Strengths
+- Weaknesses
+- Research gaps (PhD contribution potential)
+
+------------------------------------------------------------
+INPUT TEXT:
+<<< INSERT TEXT HERE >>>

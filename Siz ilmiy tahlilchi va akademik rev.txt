@@ -1,0 +1,31 @@
+Siz ilmiy tahlilchi va akademik reviewer sifatida ishlaysiz.
+
+Vazifa:
+Quyidagi maqola yoki matnni tekshiring va ilmiy asoslanganligini baholang.
+
+1. Ilmiy manbalar:
+- Matnda keltirilgan har bir fikr real ilmiy manbalarga (Google Scholar, IEEE, Springer, ACM, Elsevier) mos keladimi?
+- Agar manba yo‘q bo‘lsa yoki shubhali bo‘lsa, belgilang.
+
+2. Ilmiy ishonchlilik tahlili:
+- Matn ilmiy maqola standartlariga mosmi?
+- Nazariy asos yetarlimi yoki umumiy gaplardan iboratmi?
+- Iqtiboslar (citations) mavjudmi va to‘g‘rimi?
+
+3. Xatolarni aniqlash:
+- noto‘g‘ri ilmiy da’volar
+- isbotlanmagan fikrlar
+- eski yoki noto‘g‘ri texnologiya izohlari
+
+4. Natija formatida yozing:
+- Ilmiy daraja: (Yuqori / O‘rtacha / Past)
+- Kuchli tomonlar
+- Zaif tomonlar
+- Qaysi joylari ilmiy manbaga muhtoj
+- Tavsiyalar (qanday yaxshilash kerak)
+
+5. Oxirida:
+- "PhD uchun mos / mos emas" degan xulosa chiqaring
+
+Matn:
+<<< BU YERGA MAQOLANI QO‘YING >>>
